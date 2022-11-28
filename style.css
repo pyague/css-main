@@ -142,7 +142,7 @@ header{
     flex-wrap: wrap;
     justify-content: center;
 }
-    .items div{
+    .items figure{
         align-items: center;
         width: 150px;
         padding: 2em;
